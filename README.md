@@ -15,16 +15,6 @@ Aşağıdaki adımları takip ederek projeyi kendi bilgisayarınızda çalışt�
 
 ## Kullanım
 
-Projeyi nasıl kullanabileceğinizi burada anlatabilirsiniz. Örnekler, kod parçaları ve ekran görüntüleri eklemek kullanıcıların projenizi anlamalarına yardımcı olabilir.
-
-```python
-# Örnek kod parçası
-import socket
-import threading
-import requests
-import sqlite3
-import os
-from colorama import init, Fore, Back, Style
-
-# Socket oluşturma
-s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+![Server.py](https://prnt.sc/6oBKpPyVaJhP) 
+![Client.py](https://prnt.sc/P4A2AbumzdkG)
+![Chat.py](https://prnt.sc/gMmgUyB5EnhH)
