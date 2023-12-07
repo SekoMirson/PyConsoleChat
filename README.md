@@ -1,20 +1,14 @@
 # PyConsoleChat
 
-## Proje Hakkında
+## About the Project
 
-Bu projede, iki Python arasında soket ile bağlantı kurmayı amaçlayan bir örnek bulunmaktadır.
+In this project, there is an example aiming to establish a connection between two Pythons using sockets.
 
-## Başlangıç
+## Getting Started
 
-Aşağıdaki adımları takip ederek projeyi kendi bilgisayarınızda çalıştırabilirsiniz.
+You can run the project on your computer by following the steps below:
 
-1. Repoyu klonlayın: `git clone https://github.com/SekoMirson/PyConsoleChat.git`
-2. Proje dizinine gidin: `cd PyConsoleChat`
-3. İlk Python dosyasını çalıştırın: `python server.py`
-4. İkinci Python dosyasını çalıştırın: `python client.py`
-
-## Kullanım
-
-![Server.py](https://prnt.sc/6oBKpPyVaJhP) 
-![Client.py](https://prnt.sc/P4A2AbumzdkG)
-![Chat.py](https://prnt.sc/gMmgUyB5EnhH)
+1. Clone the repository: `git clone https://github.com/SekoMirson/PyConsoleChat.git`
+2. Go to the project directory: `cd PyConsoleChat`
+3. Run the first Python file: `python server.py`
+4. Run the second Python file: `python client.py`
